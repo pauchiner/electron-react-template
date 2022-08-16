@@ -1,4 +1,6 @@
 # Getting Started with Electron + React
+A minimal quick start template for electron and react
+<img alt="Screenshot of an app builded with this template" src="https://user-images.githubusercontent.com/49660697/184978212-2fc1a39d-2d6a-4791-9f14-7096c47e9a38.png" width="70%" style="margin: 5px;" >
 
 ## Available Scripts
 
